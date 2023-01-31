@@ -18,4 +18,4 @@
 
 Estudante de ADS e apaixonado por tecnologia.
 
-![snake gif](https://github.com/pablokz1/pablokz1/blob/output/github-contribution-grid-snake.svg)
+
