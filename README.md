@@ -3,13 +3,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-carvalho-927b1221a/)
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=pablokz1&show_icons=true&theme=dracula" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablokz1&layout=compact&show_icons=true&theme=dracula" height="195px" />
+	<img src="https://github-readme-stats.vercel.app/api?username=pablokz1&show_icons=true&theme=dracula" /><br/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablokz1&layout=compact&show_icons=true&theme=dracula" />
 </div><br/>
 
-<div align="center">
-	<img src="https://user-images.githubusercontent.com/101368608/215681504-4b79f6f7-3bb5-49d1-970b-458f4f01d432.png"/ width="495px">
-</div><br/>
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
