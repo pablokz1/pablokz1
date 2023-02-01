@@ -17,4 +17,4 @@
 	<img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
 
-Estudante de ADS e apaixonado por tecnologia
+Estudante de ADS e apaixonado por tecnologia.
