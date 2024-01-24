@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-carvalho-927b1221a/)
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=pablokz1&show_icons=true&theme=dracula" /><br/>
+	<img src="https://github-readme-stats.vercel.app/api?username=pablokz1&show_icons=true&theme=dracula" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablokz1&layout=compact&show_icons=true&theme=dracula" />
 </div><br/>
 
